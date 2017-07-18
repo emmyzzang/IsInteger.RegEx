@@ -1,0 +1,1 @@
+# IsInteger.RegEx
